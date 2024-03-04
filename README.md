@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShubhankarPuntambekar
-- 👀 I’m interested currently in frontend development
-- 🌱 I’m currently learning frontend website development
-- 💞️ I’m looking to collaborate on any vanilla javascript project
+- 👀 I’m interested currently in frontend development entry level jobs
+- 🌱 I’m currently improving my frontend website development skills
+- 💞️ I’m looking to collaborate on any vanilla javascript or react js project
 - 📫 How to reach me message me on linkedin - www.linkedin.com/in/
 pShubhankar
 
