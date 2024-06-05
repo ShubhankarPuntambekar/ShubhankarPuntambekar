@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @ShubhankarPuntambekar
-- 👀 I’m interested currently in frontend development entry level jobs
-- 🌱 I’m currently improving my frontend website development skills
-- 💞️ I’m looking to collaborate on any vanilla javascript or react js project
+- 👋 Hi, I’m @ShubhankarPuntambekar having a 2.5 years of experience in Asp.net core
+- 👀 I’m interested currently in fullsatck development jobs
+- 🌱 I’m currently improving my fullstack website development skills
 - 📫 How to reach me message me on linkedin - www.linkedin.com/in/
 pShubhankar
 
