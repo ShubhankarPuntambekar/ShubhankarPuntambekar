@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ShubhankarPuntambekar having a 2.5 years of experience in Asp.net core
-- 👀 I’m interested currently in fullsatck development jobs
+- 👋 Hi, I’m @ShubhankarPuntambekar having 3years of experience in web application development
+- 👀 I’m interested in building and collabrating on projects where creative skills are required.
 - 🌱 I’m currently improving my fullstack website development skills
 - 📫 How to reach me message me on linkedin - www.linkedin.com/in/
 pShubhankar
