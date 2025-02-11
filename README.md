@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @ShubhankarPuntambekar having 3years of experience in web application development
-- 👀 I’m interested in building and collabrating on projects where creative skills are required.
-- 🌱 I’m currently improving my fullstack website development skills
-- 📫 How to reach me message me on linkedin - www.linkedin.com/in/
+- 👋 Hi, I’m @ShubhankarPuntambekar having descent experience with web application development using Java and SpringBoot.
+- 👀 I’m interested in building and collabrating on projects where creative skills are required and are challenging at the same time.
+- 📫 Reach me message me on linkedin profile - www.linkedin.com/in/
 pShubhankar
 
 <!---
