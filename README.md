@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ShubhankarPuntambekar having descent experience with web application development using Java and SpringBoot.
+- 👋 Hi, I’m @ShubhankarPuntambekar having descent experience with backend development using Java and SpringBoot.
 - 👀 I’m interested in building and collabrating on projects where creative skills are required and are challenging at the same time.
 - 📫 Reach me message me on linkedin profile - www.linkedin.com/in/pShubhankar
 
